@@ -1,5 +1,4 @@
 def position_taken?(board, index)
-<<<<<<< HEAD
 
   if board[index] ==  "X" || board[index] == "O"
     return true
